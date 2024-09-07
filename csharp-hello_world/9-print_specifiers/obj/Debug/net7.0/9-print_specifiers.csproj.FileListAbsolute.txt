@@ -1,0 +1,4 @@
+C:\Users\hp\Documents\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.AssemblyInfo.cs
+C:\Users\hp\Documents\alu-csharp\csharp-hello_world\9-print_specifiers\obj\Debug\net7.0\9-print_specifiers.csproj.CoreCompileInputs.cache

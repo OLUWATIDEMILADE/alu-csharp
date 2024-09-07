@@ -1,0 +1,4 @@
+C:\Users\hp\Documents\alu-csharp\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\alu-csharp\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\alu-csharp\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.AssemblyInfo.cs
+C:\Users\hp\Documents\alu-csharp\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.csproj.CoreCompileInputs.cache

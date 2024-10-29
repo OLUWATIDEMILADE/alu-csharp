@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\9-linkedlist_pop\\9-linkedlist_pop.csproj": {}
+    "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\9-linkedlist_pop\\9-linkedlist_pop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\9-linkedlist_pop\\9-linkedlist_pop.csproj": {
+    "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\9-linkedlist_pop\\9-linkedlist_pop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\9-linkedlist_pop\\9-linkedlist_pop.csproj",
+        "projectUniqueName": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\9-linkedlist_pop\\9-linkedlist_pop.csproj",
         "projectName": "9-linkedlist_pop",
-        "projectPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\9-linkedlist_pop\\9-linkedlist_pop.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\9-linkedlist_pop\\obj\\",
+        "projectPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\9-linkedlist_pop\\9-linkedlist_pop.csproj",
+        "packagesPath": "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\9-linkedlist_pop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Oluwatidemilade\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

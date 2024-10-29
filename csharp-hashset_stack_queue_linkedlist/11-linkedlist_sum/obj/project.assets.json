@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\11-linkedlist_sum\\11-linkedlist_sum.csproj",
+      "projectUniqueName": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\11-linkedlist_sum\\11-linkedlist_sum.csproj",
       "projectName": "11-linkedlist_sum",
-      "projectPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\11-linkedlist_sum\\11-linkedlist_sum.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\11-linkedlist_sum\\obj\\",
+      "projectPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\11-linkedlist_sum\\11-linkedlist_sum.csproj",
+      "packagesPath": "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\11-linkedlist_sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Oluwatidemilade\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

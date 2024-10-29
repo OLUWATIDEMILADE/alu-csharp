@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\3-print_array_reverse\\3-print_array_reverse.csproj",
+      "projectUniqueName": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\3-print_array_reverse\\3-print_array_reverse.csproj",
       "projectName": "3-print_array_reverse",
-      "projectPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\3-print_array_reverse\\3-print_array_reverse.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\3-print_array_reverse\\obj\\",
+      "projectPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\3-print_array_reverse\\3-print_array_reverse.csproj",
+      "packagesPath": "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\3-print_array_reverse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Oluwatidemilade\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

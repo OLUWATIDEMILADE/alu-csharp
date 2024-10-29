@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_keys.csproj": {}
+    "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_keys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_keys.csproj": {
+    "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_keys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_keys.csproj",
+        "projectUniqueName": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_keys.csproj",
         "projectName": "8-number_keys",
-        "projectPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_keys.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\obj\\",
+        "projectPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_keys.csproj",
+        "packagesPath": "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Oluwatidemilade\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\1-common_elements.csproj",
+      "projectUniqueName": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\1-common_elements.csproj",
       "projectName": "1-common_elements",
-      "projectPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\1-common_elements.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\obj\\",
+      "projectPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\1-common_elements.csproj",
+      "packagesPath": "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hashset_stack_queue_linkedlist\\1-common_elements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Oluwatidemilade\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

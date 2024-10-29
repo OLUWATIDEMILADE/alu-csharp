@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hello_world\\9-print_specifiers\\9-print_specifiers.csproj",
+      "projectUniqueName": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hello_world\\9-print_specifiers\\9-print_specifiers.csproj",
       "projectName": "9-print_specifiers",
-      "projectPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hello_world\\9-print_specifiers\\9-print_specifiers.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-hello_world\\9-print_specifiers\\obj\\",
+      "projectPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hello_world\\9-print_specifiers\\9-print_specifiers.csproj",
+      "packagesPath": "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-hello_world\\9-print_specifiers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Oluwatidemilade\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

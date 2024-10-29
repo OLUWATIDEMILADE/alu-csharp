@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-classes\\0-enemy\\0-enemy.csproj": {}
+    "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-classes\\0-enemy\\0-enemy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-classes\\0-enemy\\0-enemy.csproj": {
+    "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-classes\\0-enemy\\0-enemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-classes\\0-enemy\\0-enemy.csproj",
+        "projectUniqueName": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-classes\\0-enemy\\0-enemy.csproj",
         "projectName": "0-enemy",
-        "projectPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-classes\\0-enemy\\0-enemy.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-classes\\0-enemy\\obj\\",
+        "projectPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-classes\\0-enemy\\0-enemy.csproj",
+        "packagesPath": "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-classes\\0-enemy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Oluwatidemilade\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

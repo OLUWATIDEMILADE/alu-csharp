@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-structs_enums\\2-dog\\2-dog.csproj",
+      "projectUniqueName": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-structs_enums\\2-dog\\2-dog.csproj",
       "projectName": "2-dog",
-      "projectPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-structs_enums\\2-dog\\2-dog.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-structs_enums\\2-dog\\obj\\",
+      "projectPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-structs_enums\\2-dog\\2-dog.csproj",
+      "packagesPath": "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-structs_enums\\2-dog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Oluwatidemilade\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

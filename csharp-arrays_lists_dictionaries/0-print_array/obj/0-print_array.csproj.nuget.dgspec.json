@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj": {}
+    "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj": {
+    "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+        "projectUniqueName": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
         "projectName": "0-print_array",
-        "projectPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\obj\\",
+        "projectPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\0-print_array.csproj",
+        "packagesPath": "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\0-print_array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Oluwatidemilade\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\9-add_key_value\\9-add_key_value.csproj": {}
+    "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\9-add_key_value\\9-add_key_value.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\9-add_key_value\\9-add_key_value.csproj": {
+    "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\9-add_key_value\\9-add_key_value.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\9-add_key_value\\9-add_key_value.csproj",
+        "projectUniqueName": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\9-add_key_value\\9-add_key_value.csproj",
         "projectName": "9-add_key_value",
-        "projectPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\9-add_key_value\\9-add_key_value.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\9-add_key_value\\obj\\",
+        "projectPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\9-add_key_value\\9-add_key_value.csproj",
+        "packagesPath": "C:\\Users\\Oluwatidemilade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oluwatidemilade\\Documents\\alu-csharp\\csharp-arrays_lists_dictionaries\\9-add_key_value\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Oluwatidemilade\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

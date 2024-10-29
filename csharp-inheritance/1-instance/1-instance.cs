@@ -1,9 +1,10 @@
+// 1-instance.cs
 using System;
 
 class Obj
 {
-    public static bool IsOfTypeInt(object obj)
+    public static bool IsInstanceOfArray(object obj)
     {
-        return obj is int;
+        return obj is Array;
     }
 }

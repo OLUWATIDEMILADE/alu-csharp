@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// 4-inherit.cs
+public class Animal
+{
+    // Empty class
+}
+
+public class Dog : Animal
+{
+    // Empty class
+}

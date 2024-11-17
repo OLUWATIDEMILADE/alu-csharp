@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// 1-instance.cs
+using System;
+
+class Obj
+{
+    public static bool IsInstanceOfArray(object obj)
+    {
+        return obj is Array;
+    }
+}

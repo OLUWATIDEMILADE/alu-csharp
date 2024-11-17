@@ -1,2 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// 5-main.cs
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Shape aShape = new Shape();
+
+        try
+        {
+            Console.WriteLine("Area: {0}", aShape.Area());
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+        }
+    }
+}

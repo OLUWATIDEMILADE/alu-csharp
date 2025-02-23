@@ -1,4 +1,5 @@
-﻿﻿
+using System;
+
 /// <summary>
 /// A generic queue.
 /// </summary>
@@ -14,7 +15,7 @@ public class Queue<T>
         /// Node value.
         /// </summary>
         public T Value { get; set; }
-        
+
         /// <summary>
         /// Next node.
         /// </summary>
@@ -35,12 +36,12 @@ public class Queue<T>
     /// Queue head.
     /// </summary>
     public Node Head { get; private set; }
-    
+
     /// <summary>
     /// Queue tail.
     /// </summary>
     public Node Tail { get; private set; }
-    
+
     /// <summary>
     /// Node count.
     /// </summary>
@@ -84,12 +85,13 @@ public class Queue<T>
         if (Head == null)
         {
             Console.WriteLine("Queue is empty");
-            return default(T); // Return default value for type T (null for reference types, 0 for value types)
+            return default(T);
         }
 
         T value = Head.Value;
         Head = Head.Next;
-        count--;
+        
+        count = Math.Max(0, count - 1); // Prevent count from going negative
 
         if (Head == null)
         {
@@ -116,5 +118,23 @@ public class Queue<T>
     {
         return typeof(T);
     }
+}
 
+// Example usage
+class Program
+{
+    static void Main()
+    {
+        Queue<int> queue = new Queue<int>();
+
+        queue.Enqueue(10);
+        queue.Enqueue(20);
+        queue.Enqueue(30);
+
+        Console.WriteLine($"Dequeued: {queue.Dequeue()}"); // Output: Dequeued: 10
+        Console.WriteLine($"Dequeued: {queue.Dequeue()}"); // Output: Dequeued: 20
+        Console.WriteLine($"Queue count: {queue.Count()}"); // Output: Queue count: 1
+        Console.WriteLine($"Dequeued: {queue.Dequeue()}"); // Output: Dequeued: 30
+        Console.WriteLine($"Dequeued: {queue.Dequeue()}"); // Output: Queue is empty
+    }
 }

@@ -7,24 +7,13 @@ using System;
 public class Queue<T>
 {
     /// <summary>
-    /// A node in the queue.
+    /// Represents a node in the queue.
     /// </summary>
-    public class Node
+    private class Node
     {
-        /// <summary>
-        /// Gets or sets the value of the node.
-        /// </summary>
-        public T Value { get; set; }
+        public T Value { get; set; } // Stores the node's value.
+        public Node Next { get; set; } // Reference to the next node.
 
-        /// <summary>
-        /// Gets or sets the next node in the queue.
-        /// </summary>
-        public Node Next { get; set; }
-
-        /// <summary>
-        /// Initializes a new node with the specified value.
-        /// </summary>
-        /// <param name="value">The value to store in the node.</param>
         public Node(T value)
         {
             Value = value;
@@ -32,18 +21,9 @@ public class Queue<T>
         }
     }
 
-    /// <summary>
-    /// Gets the first node in the queue.
-    /// </summary>
-    public Node Head { get; private set; }
-
-    /// <summary>
-    /// Gets the last node in the queue.
-    /// </summary>
-    public Node Tail { get; private set; }
-
-    // Stores the number of nodes in the queue.
-    private int count;
+    private Node Head; // Points to the first node in the queue.
+    private Node Tail; // Points to the last node in the queue.
+    private int count; // Tracks the number of elements in the queue.
 
     /// <summary>
     /// Initializes a new instance of the <see cref="Queue{T}"/> class.
@@ -62,15 +42,17 @@ public class Queue<T>
     public void Enqueue(T value)
     {
         Node newNode = new Node(value);
-        if (Tail == null)
+
+        if (Tail == null) // If the queue is empty, set Head as the new node.
         {
             Head = newNode;
         }
         else
         {
-            Tail.Next = newNode;
+            Tail.Next = newNode; // Link the last node to the new node.
         }
-        Tail = newNode;
+
+        Tail = newNode; // Update Tail to the new node.
         count++;
     }
 
@@ -83,15 +65,14 @@ public class Queue<T>
         if (Head == null)
         {
             Console.WriteLine("Queue is empty");
-            return default(T); // Returns default value (null for reference types, 0 for numeric types)
+            return default(T); // Return default value (null for reference types, 0 for value types).
         }
 
         T value = Head.Value;
         Head = Head.Next;
         count--;
 
-        // If the queue is now empty, reset Tail to null.
-        if (Head == null)
+        if (Head == null) // If the queue becomes empty, reset Tail.
         {
             Tail = null;
         }
